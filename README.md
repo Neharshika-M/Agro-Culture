@@ -1,2 +1,2 @@
 # Agro-Culture
-HTML+CSS, JS, SQL, PHP
+HTML+CSS, SQL , Machine Learning
